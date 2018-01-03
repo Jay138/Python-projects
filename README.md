@@ -1,1 +1,3 @@
-'Data Analysis projects using Pythons. Libraries used are numpy,pandas,Matplotlib,Seaborn,scipy' 
+Data science projects using Python.
+Libraries used: Numpy, Pandas, Matplotlib, Seaborn, Scipy
+
